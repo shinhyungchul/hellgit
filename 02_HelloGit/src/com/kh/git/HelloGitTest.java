@@ -6,6 +6,7 @@ public class HelloGitTest {
 		System.out.println("수정수정수정!");
 		System.out.println("야야야야야야야야``!");
 		System.out.println("신ㅁㄴㅇㄻㄴㅇㅁㄴㅇ. commit&push!!!");
+		System.out.println("안축하합니다. commit&push!!!");
 		System.out.println("aaaaa형철바보");
 		System.out.println("aa`뻐큐먹어`!");
 		System.out.println("aasdasdaa``!");
